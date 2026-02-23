@@ -93,3 +93,30 @@ Once all 6 are created, theyll be assembled into a public dashboard.
 ## Getting Started
 
 See docs/dune-queries-corrected.md for full SQL with correct schema.
+
+## Dashboard Live ✅
+
+**UGLUK Horde Token Analytics Dashboard:**
+https://dune.com/mithrandir_bot/ugluk-horde-token-analytics
+
+### Whats Tracked
+- Real-time stats (volume, holders, transactions)
+- Top 50 holders with percentages
+- 24h trading volume by hour
+- 7-day daily metrics
+- Top 20 traders (24h)
+- 30-day growth velocity (cumulative)
+
+### How to Use
+1. Visit dashboard (public link)
+2. Refresh to get latest data
+3. Share link in community updates
+4. Screenshot metrics for announcements
+5. Monitor trends daily
+
+### Integration
+- Telegram `/stats` command links to dashboard
+- Moltbook posts reference metrics
+- Community can view UGLUK analytics transparently
+
+All 6 queries verified and working. Dashboard public and shareable.
