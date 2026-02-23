@@ -71,3 +71,25 @@ Access Dune data programmatically:
 ---
 
 Transparent metrics for a transparent token. 🦞
+
+## Live Queries
+
+All queries use the correct Base schema: `erc20_base.evt_transfer`
+
+### Query 1: Top 50 Holders
+- **Status:** ✅ LIVE
+- **URL:** https://dune.com/queries/6730633
+- Shows UGLUK holders ranked by balance and % of supply
+
+### Queries 2-6 (In Progress)
+- Query 2: 24h Trading Volume
+- Query 3: 7-Day Daily Metrics  
+- Query 4: Real-time Snapshot Stats
+- Query 5: Top 20 Traders (24h)
+- Query 6: Growth Velocity Trends
+
+Once all 6 are created, theyll be assembled into a public dashboard.
+
+## Getting Started
+
+See docs/dune-queries-corrected.md for full SQL with correct schema.
